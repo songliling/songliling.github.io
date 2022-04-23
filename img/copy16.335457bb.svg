@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Rectangle 14</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-1173.000000, -222.000000)" fill="#14171C">
+            <g id="编组-5" transform="translate(0.000000, 146.000000)">
+                <g id="编组-11" transform="translate(1157.000000, 64.000000)">
+                    <g id="编组" transform="translate(16.000000, 12.000000)">
+                        <path d="M13.6,1 C14.4065993,1 15,1.59340068 15,2.4 L15,9.4 C15,10.2065993 14.4065993,10.8 13.6,10.8 L10.8,10.8 L10.8,13.6 C10.8,14.4065993 10.2065993,15 9.4,15 L2.4,15 C1.59340068,15 1,14.4065993 1,13.6 L1,6.6 C1,5.79340068 1.59340068,5.2 2.4,5.2 L5.2,5.2 L5.2,2.4 C5.2,1.59340068 5.79340068,1 6.6,1 L13.6,1 Z M5.2,6.6 L2.4,6.6 L2.4,13.6 L9.4,13.6 L9.4,10.8 L6.6,10.8 C5.79340068,10.8 5.2,10.2065993 5.2,9.4 L5.2,6.6 Z M13.6,2.4 L6.6,2.4 L6.6,9.4 L13.6,9.4 L13.6,2.4 Z" id="icon"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
